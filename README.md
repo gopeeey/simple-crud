@@ -2,7 +2,7 @@
 This is a simple CRUD app written in Node.js
 
 ## Root URL
-[Link](https://simple-crud.herokuapp.com)
+https://simple-crud.herokuapp.com
 
 ## Routes
 Data stored on the database follow the 'user' model and records
