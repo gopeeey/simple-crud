@@ -25,7 +25,7 @@ Example: *https://gopeeey-simple-crud.herokuapp.com/users*
 
 #### GET '/:id':
 Fetches a single user whose id is appended to the url  
-Example: *https://gopeeey-simple-crud.herokuapp.com/users/4dkuE8kajr4ks*
+Example: *https://gopeeey-simple-crud.herokuapp.com/users/609496d99627180004b1a66b*
 
 #### PUT '/:id':
 Updates the record of a single user whose id is appended to the url.  
@@ -37,8 +37,8 @@ Takes any one of the following parameters
     country: String
 }
 ```  
-Example: *https://gopeeey-simple-crud.herokuapp.com/users/4dkuE8kajr4ks*
+Example: *https://gopeeey-simple-crud.herokuapp.com/users/609496d99627180004b1a66b*
 
 #### DELETE '/:id':
 Deletes the record of a single user whose id is appended to the url  
-Example: *https://gopeeey-simple-crud.herokuapp.com/users/4dkuE8kajr4ks*
+Example: *https://gopeeey-simple-crud.herokuapp.com/users/609496d99627180004b1a66b*
